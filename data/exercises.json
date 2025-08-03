@@ -1,0 +1,314 @@
+{
+  "workouts": [
+    {
+      "name": "Dumbbell Romanian Deadlift",
+      "exercise_type": "Strength",
+      "muscle_groups": ["Legs", "Back"],
+      "equipment_needed": ["Dumbbells"],
+      "intensity": "Moderate",
+      "difficulty": "Intermediate",
+      "injury_restrictions": ["Lower Back Pain"],
+      "sets": 3,
+      "reps": 12,
+      "rest_period": "60s",
+      "notes": "Keep back straight, hinge at hips",
+      "alternatives": ["Bodyweight Good Mornings"]
+    },
+    {
+      "name": "Step-Ups",
+      "exercise_type": "Strength",
+      "muscle_groups": ["Legs"],
+      "equipment_needed": ["Step"],
+      "intensity": "Moderate",
+      "difficulty": "Beginner",
+      "injury_restrictions": ["Knee Injury"],
+      "alternatives": ["Bodyweight Squats"]
+    },
+    {
+      "name": "Resistance Band Rows",
+      "exercise_type": "Strength",
+      "muscle_groups": ["Back"],
+      "equipment_needed": ["Resistance Bands"],
+      "intensity": "Moderate",
+      "difficulty": "Beginner",
+      "injury_restrictions": ["Shoulder Issue"],
+      "alternatives": ["Seated Rows"]
+    },
+    {
+      "name": "Stationary Bike",
+      "exercise_type": "Cardio",
+      "muscle_groups": ["Legs"],
+      "equipment_needed": ["Stationary Bike"],
+      "intensity": "Moderate",
+      "difficulty": "Beginner",
+      "injury_restrictions": ["Knee Injury"],
+      "alternatives": ["Swimming"]
+    },
+    {
+      "name": "Swimming",
+      "exercise_type": "Cardio",
+      "muscle_groups": ["Full Body"],
+      "equipment_needed": ["Pool"],
+      "intensity": "Moderate",
+      "difficulty": "Beginner",
+      "injury_restrictions": [],
+      "alternatives": ["Water Aerobics"]
+    },
+    {
+      "name": "Bodyweight Squats",
+      "exercise_type": "Strength",
+      "muscle_groups": ["Legs"],
+      "equipment_needed": [],
+      "intensity": "Low",
+      "difficulty": "Beginner",
+      "injury_restrictions": [],
+      "alternatives": ["Wall Sit"]
+    },
+    {
+      "name": "Dumbbell Thrusters",
+      "exercise_type": "HIIT",
+      "muscle_groups": ["Legs", "Shoulders"],
+      "equipment_needed": ["Dumbbells"],
+      "intensity": "High",
+      "difficulty": "Intermediate",
+      "injury_restrictions": ["Shoulder Issue"],
+      "sets": 4,
+      "reps": 12,
+      "rest_period": "45s",
+      "notes": "Keep core tight, drive through heels.",
+      "alternatives": ["Bodyweight Squats"]
+    },
+    {
+      "name": "Mountain Climbers",
+      "exercise_type": "HIIT",
+      "muscle_groups": ["Core", "Legs"],
+      "equipment_needed": [],
+      "intensity": "High",
+      "difficulty": "Beginner",
+      "injury_restrictions": ["Wrist Pain"],
+      "sets": 4,
+      "reps": "30s",
+      "rest_period": "30s",
+      "notes": "Maintain a flat back.",
+      "alternatives": ["Standing Knee Raises"]
+    },
+    {
+      "name": "Stationary Bike Sprints",
+      "exercise_type": "Cardio",
+      "muscle_groups": ["Legs"],
+      "equipment_needed": ["Stationary Bike"],
+      "intensity": "High",
+      "difficulty": "Intermediate",
+      "injury_restrictions": ["Knee Injury"],
+      "sets": 8,
+      "reps": "20s sprint",
+      "rest_period": "40s easy pedal",
+      "notes": "Alternate sprint and recovery.",
+      "alternatives": ["Swimming Sprints"]
+    },
+    {
+      "name": "Yoga Sun Salutation",
+      "exercise_type": "Flexibility",
+      "muscle_groups": ["Full Body"],
+      "equipment_needed": ["Yoga Mat"],
+      "intensity": "Low",
+      "difficulty": "Beginner",
+      "injury_restrictions": [],
+      "sets": 3,
+      "reps": "5 cycles",
+      "rest_period": "1 min",
+      "notes": "Focus on breath and flow.",
+      "alternatives": ["Standing Stretch"]
+    },
+    {
+      "name": "Plank Holds",
+      "exercise_type": "Core",
+      "muscle_groups": ["Core"],
+      "equipment_needed": [],
+      "intensity": "Moderate",
+      "difficulty": "Beginner",
+      "injury_restrictions": ["Shoulder Issue"],
+      "sets": 3,
+      "reps": "45s",
+      "rest_period": "30s",
+      "notes": "Keep hips level.",
+      "alternatives": ["Knee Plank"]
+    },
+    {
+      "name": "Resistance Band Rows",
+      "exercise_type": "Strength",
+      "muscle_groups": ["Back"],
+      "equipment_needed": ["Resistance Bands"],
+      "intensity": "Moderate",
+      "difficulty": "Beginner",
+      "injury_restrictions": ["Shoulder Issue"],
+      "sets": 4,
+      "reps": 15,
+      "rest_period": "60s",
+      "notes": "Squeeze shoulder blades together.",
+      "alternatives": ["Seated Rows"]
+    },
+    {
+      "name": "Bodyweight Squats",
+      "exercise_type": "Strength",
+      "muscle_groups": ["Legs"],
+      "equipment_needed": [],
+      "intensity": "Low",
+      "difficulty": "Beginner",
+      "injury_restrictions": [],
+      "sets": 4,
+      "reps": 20,
+      "rest_period": "45s",
+      "notes": "Keep chest up, knees out.",
+      "alternatives": ["Wall Sit"]
+    },
+    {
+      "name": "Swimming Laps",
+      "exercise_type": "Cardio",
+      "muscle_groups": ["Full Body"],
+      "equipment_needed": ["Pool"],
+      "intensity": "Moderate",
+      "difficulty": "Beginner",
+      "injury_restrictions": [],
+      "sets": 5,
+      "reps": "2 min swim",
+      "rest_period": "1 min rest",
+      "notes": "Choose preferred stroke.",
+      "alternatives": ["Water Aerobics"]
+    },
+    {
+      "name": "Plank",
+      "exercise_type": "Core",
+      "muscle_groups": ["Core"],
+      "equipment_needed": [],
+      "intensity": "Low",
+      "difficulty": "Beginner",
+      "injury_restrictions": [],
+      "alternatives": ["Side Plank"]
+    },
+    {
+      "name": "Elliptical",
+      "exercise_type": "Cardio",
+      "muscle_groups": ["Full Body"],
+      "equipment_needed": ["Elliptical"],
+      "intensity": "Moderate",
+      "difficulty": "Beginner",
+      "injury_restrictions": ["Knee Injury"],
+      "alternatives": ["Rowing Machine"]
+    },
+    {
+      "name": "Push-ups",
+      "exercise_type": "Strength",
+      "muscle_groups": ["Chest", "Shoulders", "Triceps"],
+      "equipment_needed": [],
+      "intensity": "Moderate",
+      "difficulty": "Beginner",
+      "injury_restrictions": ["Shoulder Issue"],
+      "alternatives": ["Wall Push-ups"]
+    },
+    {
+      "name": "Lunges",
+      "exercise_type": "Strength",
+      "muscle_groups": ["Legs"],
+      "equipment_needed": [],
+      "intensity": "Moderate",
+      "difficulty": "Beginner",
+      "injury_restrictions": ["Knee Injury"],
+      "alternatives": ["Reverse Lunges"]
+    }
+  ],
+  "goals": [
+    {
+      "goal": "Weight Loss",
+      "structure": {
+        "Monday": "HIIT",
+        "Tuesday": "Cardio",
+        "Wednesday": "Strength",
+        "Thursday": "HIIT",
+        "Friday": "Cardio",
+        "Saturday": "Flexibility",
+        "Sunday": "Rest"
+      },
+      "recommended_types": {
+        "HIIT": 2,
+        "Cardio": 2,
+        "Strength": 1,
+        "Flexibility": 1,
+        "Rest": 1
+      }
+    },
+    {
+      "goal": "Muscle Gain",
+      "structure": {
+        "Monday": "Strength",
+        "Tuesday": "Strength",
+        "Wednesday": "Core",
+        "Thursday": "Strength",
+        "Friday": "Cardio",
+        "Saturday": "Strength",
+        "Sunday": "Rest"
+      },
+      "recommended_types": {
+        "Strength": 4,
+        "Core": 1,
+        "Cardio": 1,
+        "Rest": 1
+      }
+    },
+    {
+      "goal": "Endurance",
+      "structure": {
+        "Monday": "Cardio",
+        "Tuesday": "Cardio",
+        "Wednesday": "Circuit",
+        "Thursday": "Cardio",
+        "Friday": "Circuit",
+        "Saturday": "Flexibility",
+        "Sunday": "Rest"
+      },
+      "recommended_types": {
+        "Cardio": 3,
+        "Circuit": 2,
+        "Flexibility": 1,
+        "Rest": 1
+      }
+    },
+    {
+      "goal": "General Fitness",
+      "structure": {
+        "Monday": "Strength",
+        "Tuesday": "Cardio",
+        "Wednesday": "Flexibility",
+        "Thursday": "Core",
+        "Friday": "Strength",
+        "Saturday": "Cardio",
+        "Sunday": "Rest"
+      },
+      "recommended_types": {
+        "Strength": 2,
+        "Cardio": 2,
+        "Flexibility": 1,
+        "Core": 1,
+        "Rest": 1
+      }
+    },
+    {
+      "goal": "Rehabilitation",
+      "structure": {
+        "Monday": "Mobility",
+        "Tuesday": "Flexibility",
+        "Wednesday": "Low-Impact",
+        "Thursday": "Mobility",
+        "Friday": "Flexibility",
+        "Saturday": "Low-Impact",
+        "Sunday": "Rest"
+      },
+      "recommended_types": {
+        "Mobility": 2,
+        "Flexibility": 2,
+        "Low-Impact": 2,
+        "Rest": 1
+      }
+    }
+  ]
+}

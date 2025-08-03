@@ -1,0 +1,16 @@
+workout-recommender/
+├── README.md
+├── requirements.txt
+├── main.py
+├── src/
+│   ├── __init__.py
+│   ├── recommender.py
+│   ├── data_models.py
+│   ├── workout_generator.py
+│   └── utils.py
+├── data/
+│   ├── exercises.json
+│   └── workout_templates.json
+└── tests/
+    ├── __init__.py
+    └── test_recommender.py

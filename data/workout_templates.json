@@ -1,0 +1,104 @@
+  {
+    "goal": "Weight Loss",
+    "structure": {
+      "HIIT": 3,
+      "Cardio": 2,
+      "Strength": 1,
+      "Flexibility": 1
+    }
+  },
+  {
+    "goal": "Muscle Gain",
+    "structure": {
+      "Strength": 4,
+      "Core": 1,
+      "Cardio": 1
+    }
+  },
+  {
+    "goal": "Endurance",
+    "structure": {
+      "Cardio": 3,
+      "Circuit": 2
+    }
+  },
+  {
+    "goal": "General Fitness",
+    "structure": {
+      "Strength": 2,
+      "Cardio": 2,
+      "Flexibility": 1,
+      "Core": 1
+    }
+  },
+  {
+    "goal": "Rehabilitation",
+    "structure": {
+      "Mobility": 3,
+      "Flexibility": 2,
+      "Low-Impact": 2
+    }
+  }
+]
+[
+  {
+    "goal": "Weight Loss",
+    "structure": {
+      "Monday": "HIIT",
+      "Tuesday": "Cardio",
+      "Wednesday": "Strength",
+      "Thursday": "HIIT",
+      "Friday": "Cardio",
+      "Saturday": "Flexibility",
+      "Sunday": "Rest"
+    }
+  },
+  {
+    "goal": "Muscle Gain",
+    "structure": {
+      "Monday": "Strength",
+      "Tuesday": "Strength",
+      "Wednesday": "Core",
+      "Thursday": "Strength",
+      "Friday": "Cardio",
+      "Saturday": "Strength",
+      "Sunday": "Rest"
+    }
+  },
+  {
+    "goal": "Endurance",
+    "structure": {
+      "Monday": "Cardio",
+      "Tuesday": "Cardio",
+      "Wednesday": "Circuit",
+      "Thursday": "Cardio",
+      "Friday": "Circuit",
+      "Saturday": "Flexibility",
+      "Sunday": "Rest"
+    }
+  },
+  {
+    "goal": "General Fitness",
+    "structure": {
+      "Monday": "Strength",
+      "Tuesday": "Cardio",
+      "Wednesday": "Flexibility",
+      "Thursday": "Core",
+      "Friday": "Strength",
+      "Saturday": "Cardio",
+      "Sunday": "Rest"
+    }
+  },
+  {
+    "goal": "Rehabilitation",
+    "structure": {
+      "Monday": "Mobility",
+      "Tuesday": "Flexibility",
+      "Wednesday": "Low-Impact",
+      "Thursday": "Mobility",
+      "Friday": "Flexibility",
+      "Saturday": "Low-Impact",
+      "Sunday": "Rest"
+    }
+  }
+]
