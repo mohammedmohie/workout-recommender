@@ -76,7 +76,7 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 - GitHub Issues: [workout-recommender/issues](https://github.com/yourusername/workout-recommender/issues)
-- Email: your.email@example.com
+- Email: mohammedmohie04@gmail.com
 
 ## Features
 - Personalized workout recommendations
